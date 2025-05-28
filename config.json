@@ -1,0 +1,11 @@
+{
+    "api_config": {
+        "api_key": "15b93c4a-d8fb-4450-b7bf-efec98f28b12",
+        "api_url": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
+        "model": "deepseek-r1-250120",
+        "temperature": 0.7,
+        "max_tokens": 1000
+    },
+    "prompt_file": "./prompt/default.md",
+    "log_file": "./txt.log"
+}
